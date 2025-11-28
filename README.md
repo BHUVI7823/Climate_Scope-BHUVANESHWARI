@@ -1,4 +1,4 @@
-<img width="1162" height="793" alt="image" src="https://github.com/user-attachments/assets/f05b8dfa-1211-4453-842a-23df88ed0408" /><img width="1162" height="793" alt="image" src="https://github.com/user-attachments/assets/04ac9878-3c6b-4bea-9edb-faa9f03c0d55" />**🌦️ ClimateScope Weather Dashboard — README**
+**ClimateScope Weather Dashboard — README**
 **📌 Project Overview**
 
 This project analyzes global weather data and builds an interactive Power BI dashboard to study temperature, humidity, wind speed, pressure, and country-wise climate patterns.
@@ -9,21 +9,21 @@ The final output is an interactive dashboard built using Power BI Desktop.
 **📁 Project Structure
 📦 ClimateScope Dashboard Project**
 
-|–– 📄 CLIMATE_SCOPE.ipynb        # Python EDA and data-cleaning notebook
+|–– 📄 CLIMATE_SCOPE.ipynb          # Python EDA and data-cleaning notebook
 
-|–– 📄 GlobalWeatherRepository_cleaned.csv   # Final cleaned dataset
+|–– 📄 GlobalWeatherRepository_cleaned.csv     # Final cleaned dataset
 
-|–– 📄 Bhuvana-climatescope dashboard.pbix   # Power BI dashboard file
+|–– 📄 Bhuvana-climatescope dashboard.pbix     # Power BI dashboard file
 
-|–– 📄 README.md                   # Documentation (this file)
+|–– 📄 README.md                     # Documentation (this file)
 
 **🧹 1. Data Cleaning & Preprocessing (Python)**
 
 I used Python to clean and prepare the dataset.
 The EDA and cleaning steps were done inside CLIMATE_SCOPE.ipynb.
 
-**✔️ Steps Performed
-1. Imported Required Libraries**
+**✔️ Steps Performed**
+**1. Imported Required Libraries**
 
 pandas
 
